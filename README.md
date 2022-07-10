@@ -1,6 +1,6 @@
 - 👋 Olá, sou Beatriz Farias
 - 🌱 Atualmente estou aprendendo programação full stack
-- 📫 Meu email é Biapfarias02@gmail.com
+- 📫 Meu email é Bia.fariaspro@gmail.com
 - ✨ Pronomes: Ela/Dela
 <!---
 BeatrizFarias02/BeatrizFarias02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
